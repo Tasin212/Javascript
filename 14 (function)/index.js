@@ -27,3 +27,6 @@ function isValidEmail(email) {
 }
 console.log(isValidEmail("fake@gmail.com")); //true
 console.log(isValidEmail("fake.com")); //false
+
+// ===>
+    // varible scope = where a variable is recognized and accessible (local vs global)
